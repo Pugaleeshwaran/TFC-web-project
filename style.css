@@ -246,7 +246,8 @@ header a {
     letter-spacing: 0.5px;
     font-weight: 400;
     border: none;
-    cursor: pointer;border-radius: 1000px;
+    cursor: pointer;
+    border-radius: 1000px;
     box-shadow: 0 1px 3px rgba(0,0, 0, 0.4);
     
 
